@@ -1,0 +1,5 @@
+Hello, how are you?
+This is a pen.
+I love machine learning.
+What is your name?
+I am learning new languages.
